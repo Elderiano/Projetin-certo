@@ -1,0 +1,26 @@
+.cabeçalho{
+    background-color: white;
+    width: 2000spx;
+    height: 200px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    display: flex;
+}
+
+body {
+    background-color: rgb(84, 173, 84);  
+    background-image: linear-gradient(to left,white,green);
+}
+
+.Imagem-paisagem{
+    width: 500px;
+    display: flex;
+
+}
+
+.Golobo-imagem{
+width: 150px;
+text-size-adjust: 35px;
+align-items: start
+}
